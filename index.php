@@ -2,7 +2,7 @@
 <html>
   <head>
 		<title>Jquery Serverside validation</title>
-		<script src="js/jquery-1.9.1.min.js" type="text/javascript"></script>
+		<script src="http://code.jquery.com/jquery-1.9.1.min.js" type="text/javascript"></script>
 
 		<script type="text/javascript">
 			$(function() {
@@ -68,7 +68,7 @@
 				left: auto;
 				padding: 0px 0px 3px 0px;
 				font-weight: bold;
-				background: url(images/error-icon.png) 98% 10px no-repeat #fbfbfb;
+				background: #fbfbfb;
 				box-shadow: 0px 0px 5px #aaa;
 				border: 1px solid #414141;
 				border-radius: 5px;
