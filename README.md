@@ -1,4 +1,4 @@
-php-jquery-serverside-validation
-================================
+Server side Validation using PHP and JQuery AJAX.
+================================================
 
-Serverside Validation with jquery AJAX Post.
+Here is a simple example for Validation of form fields with PHP + JQuery at serverside.
